@@ -21,7 +21,7 @@ Designed to showcase **user segments** and **financial UI components** with a sm
 - **JavaScript (ES6+)**
 
 ---
-##⚙️ Getting Started
+⚙️ Getting Started
 
 Follow these steps to run the project locally and upload it to GitHub.
 
@@ -32,6 +32,7 @@ cd digital-banking-ui-react
 git init
 git add .
 git commit -m "Initial commit: Digital Banking UI built with React and Tailwind"
+
 
 3️⃣ Create a GitHub repository
 
@@ -56,17 +57,17 @@ npm run dev
 Then open 👉 http://localhost:5173
  in your browser.
 ---
-##🧾 Project Overview
+🧾 Project Overview
 
 This project highlights a Target Audience section for a digital banking platform — featuring different user categories (e.g. Satisfied, Underserved, Underbanked, etc.) with images and dynamic color tags.
 The layout uses Flexbox and Tailwind responsive utilities for mobile adaptability.
 ---
-##🧑‍💻 About
+🧑‍💻 About
 
 A modern digital banking interface built with React and Tailwind CSS.
 Ideal for frontend learning, portfolio UI projects, or fintech design inspiration.
 ---
-##🌐 Connect
+🌐 Connect
 
 👤 Author: Harshit Shrivas
 ⭐ Don’t forget to star this repo if you like it!
